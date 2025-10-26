@@ -1,12 +1,12 @@
 # Braille Notepad
 
-[![Deploy to GitHub Pages](https://github.com/kindofbluetrains/Braille-Notepad/actions/workflows/deploy.yml/badge.svg)](https://github.com/kindofbluetrains/Braille-Notepad/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/MicroSwitchers/dfbraillenotepad/actions/workflows/deploy.yml/badge.svg)](https://github.com/MicroSwitchers/dfbraillenotepad/actions/workflows/deploy.yml)
 
 A beautiful and professional Flutter application that provides Braille input functionality using keyboard keys (fdsjkl) to create Braille characters. This app is designed to be accessible and intuitive for users who need to input Braille text.
 
 ## 🚀 Live Demo
 
-**Try it now**: [https://kindofbluetrains.github.io/Braille-Notepad/](https://kindofbluetrains.github.io/Braille-Notepad/)
+**Try it now**: [https://microswitchers.github.io/dfbraillenotepad/](https://microswitchers.github.io/dfbraillenotepad/)
 
 ## Features
 
