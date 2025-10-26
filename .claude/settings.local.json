@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(flutter doctor:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter test:*)",
+      "Bash(flutter pub upgrade:*)",
+      "Bash(flutter build:*)",
+      "Bash(start http://localhost:8000)",
+      "Bash(python -m http.server:*)",
+      "Bash(git init:*)",
+      "Bash(setup-github.bat)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

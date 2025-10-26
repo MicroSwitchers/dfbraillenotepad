@@ -1,0 +1,40 @@
+name: braille_notepad
+description: A professional Braille notepad app with sdfjkl key input mapping
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  file_selector: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/mbw.png
+
+flutter_launcher_icons:
+  image_path: assets/icons/mbw.png
+  android: false
+  ios: false
+  macos:
+    generate: false
+  linux:
+    generate: false
+  web:
+    generate: true
+    image_path: assets/icons/mbw.png
+  windows:
+    generate: true
+    image_path: assets/icons/mbw.png
